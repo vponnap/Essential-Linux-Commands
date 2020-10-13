@@ -58,3 +58,4 @@ umount - detaches the file system(s) mentioned from the file hierarchy
 df -display disk usage of the file system
 top - to show the Linux processes
 lsof - LiSt Open Files' is used to find out which files are open by which process ps - list processes
+ps - list processes
